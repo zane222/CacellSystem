@@ -7,8 +7,8 @@ I work at a computer and cellphone repair store and CacellSystem is currently be
 
 ## Pros and Cons of CacellSystem vs RepairShopr's website
 ### Pros
-* Has faster load times
-* You can basically all of the program without touching the mouse, just the keyboard
+* Has much faster load times
+* You use can basically all of the program without touching the mouse, just the keyboard
 * The image of the ticket label comes up faster and with less clicks and is the primary way of viewing a ticket
 * It tells you all the previously used passwords of a customer without you having to look through each ticket (incase we forgot to ask for the password, we can just look at this)
 * No dropdowns (I don't like dropdowns because they require you to click, then find the correct option, then click again, and sometimes they cover up things, and also sometimes they are off screen)
@@ -24,6 +24,7 @@ Basicly all these things are not used more than once a month at the store I work
 * Can't make, view, or print invoices or estimates
 * Can't send SMS
 * Can't make a rework of a ticket
+* Can't filter or sort tickets
 * Can't clock in and out (we just have RepairShopr's website on our phone to clock in and out, then have CacellSystem on the computers)
 * Can't manage or view clock ins and outs of employees
 
