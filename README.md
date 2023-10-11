@@ -1,7 +1,7 @@
 # CacellSystem
 CacellSystem is a website made with Unity to help manage a computer and/or cellphone repair store. CacellSystem is an extension of RepairShopr and requires RepairShopr's REST API for use as a database. CacellSystem can read, edit, etc. all tickets and customers that were previouly made by using RepairShopr's website and both website's tickets and customers are synced to the other and are viewable and edit-able by the other. CacellSystem is meant to be a replacement for using RepairShopr's website, while still being able to use RepairShopr's website for things you may use every once in a while if it has a feature you sometimes use.
 
-I am CacellSystem's soul developer and it took me about a year of development to develop it to this state (basicly no bugs and it's not missing many important features).
+I am CacellSystem's soul developer and it took me about a year of development to develop it to this state (basicly no bugs and it's not missing any important features).
 
 I work at a computer and cellphone repair store and CacellSystem is currently being used at that store. I created it becuase I have a lot of issues with RepairShopr, and wanted a better system.
 
