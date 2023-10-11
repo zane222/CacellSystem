@@ -28,7 +28,7 @@ Basicly all these things are not used more than once a month at the store I work
 * Can't manage or view clock ins and outs of employees
 
 ## How to use it for your store
-I don't have an automatic way of you using the website, you would have to change multiple things in the code, it would be difficult. You can just email me (zamo2022@gmail.com) and I'll can help you
+I don't have an automatic way of you using the website, you would have to change multiple things in the code, it would be difficult. You can just email me (zamo2022@gmail.com) and I'll can help you.
 
 ### If you want to do it manually
 * Get an [api key](https://feedback.repairshopr.com/knowledgebase/articles/376312-repairshopr-rest-api-build-custom-extensions-app) from RepairShopr
