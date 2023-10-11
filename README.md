@@ -16,6 +16,7 @@ I work at a computer and cellphone repair store and CacellSystem is currently be
 * Can make a ticket in a way that is very consistent and neat with less effort than manually making it look neat (I'm picky and I like it like that much more)
 * You can choose the primary phone number for a customer without having to fiddle around with it until it's correct
 * Makes it easier to notice if you're printing to the wrong printer
+* Shows more things on the ticket label such as the creation date
 
 ### Cons
 Basicly all these things are not used more than once a month at the store I work at, when we need one of these features, we just use RepairShopr's website
