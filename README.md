@@ -45,4 +45,4 @@ Basicly all these things are not used more than once a month at the store I work
 * Build the project to webGL
 * Host the website somewhere (I use [firebase hosting](https://firebase.google.com/docs/cli), it works well and is free)
 
-It may still not work, this is probably because the ticket types for your RepairShopr aren't default (or the RepairShopr I developed it on aren't default and yours are), this would be super difficult to fix, you can email me if this happens and I can help you.
+It may still not work, this is probably because the ticket types for your RepairShopr aren't default (or the RepairShopr I developed it on aren't default and yours are), this would be super difficult to fix, you can email me if this happens and I can help you (zamo2022@gmail.com).
