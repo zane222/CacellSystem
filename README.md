@@ -5,6 +5,10 @@ I am CacellSystem's soul developer and it took me about a year of development to
 
 I work at a computer and cellphone repair store and CacellSystem is currently being used at that store. I created it becuase I have a lot of issues with RepairShopr, and wanted a better system.
 
+## Watch a showcase of CacellSystem
+![5](https://github.com/zane222/CacellSystem/assets/51272566/15129915-8fdb-4476-8f83-a7a3404efbce)
+https://youtu.be/YLMXsPy-mk0
+
 ## Pros and Cons of CacellSystem vs RepairShopr's website
 ### Pros
 * Has much faster load times
@@ -30,9 +34,7 @@ Basicly all these things are not used more than once a month at the store I work
 * Can't manage or view clock ins and outs of employees
 
 ## How to use it for your store
-I don't have an automatic way of you using the website, you would have to change multiple things in the code, it would be difficult. You can just email me (zamo2022@gmail.com) and I'll can help you.
-
-### If you want to do it manually
+(I'm planing on making this a little easier soon)
 * Get an [api key](https://feedback.repairshopr.com/knowledgebase/articles/376312-repairshopr-rest-api-build-custom-extensions-app) from RepairShopr
 * Change API_KEY in SignInManager.cs to your api key (this is only for if you want to develop the project, if you don't want to develop it, you don't have to do this)
 * Change DOMAIN_NAME in Main.cs to the text in the leftmost part of the url at the top of your browser when your on RepairShopr's website (only the text before the first dot)
