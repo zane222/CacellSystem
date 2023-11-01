@@ -37,14 +37,14 @@ Basicly all these things are not used more than once a month at the store I work
 
 ## How to use it for your store
 (I'm planing on making this a little easier soon)
-* Get an [api key](https://feedback.repairshopr.com/knowledgebase/articles/376312-repairshopr-rest-api-build-custom-extensions-app) from RepairShopr
-* Change API_KEY in SignInManager.cs to your api key (this is only for if you want to develop the project, if you don't want to develop it, you don't have to do this)
-* Change DOMAIN_NAME in Main.cs to the text in the leftmost part of the url at the top of your browser when your on RepairShopr's website (only the text before the first dot)
-* Create a [firebase realtime database](https://console.firebase.google.com/) (it's free) that looks exactly like this:
+1. Get an [api key](https://feedback.repairshopr.com/knowledgebase/articles/376312-repairshopr-rest-api-build-custom-extensions-app) from RepairShopr
+1. Change API_KEY in SignInManager.cs to your api key (this is only for if you want to develop the project, if you don't want to develop it, you don't have to do this)
+1. Change DOMAIN_NAME in Main.cs to the text in the leftmost part of the url at the top of your browser when your on RepairShopr's website (only the text before the first dot)
+1. Create a [firebase realtime database](https://console.firebase.google.com/) (it's free) that looks exactly like this:
 
   ![Screenshot 2023-10-10 190531](https://github.com/zane222/CacellSystem/assets/51272566/1c465bf3-34c4-4e33-b573-be3aeb91ad33)
-* Put the link to your firebase database in place of mine in SignInManager.cs (lines 29 and 43, only change the stuff before the .com)
-* Build the project to webGL
-* Host the website somewhere (I use [firebase hosting](https://firebase.google.com/docs/cli), it works well and is free)
+1. Put the link to your firebase database in place of mine in SignInManager.cs (lines 29 and 43, only change the stuff before the .com)
+1. Open Unity and build the project to webGL
+1. Host the website somewhere (I use [firebase hosting](https://firebase.google.com/docs/cli), it works well and is free)
 
-It may still not work, this is probably because the ticket types for your RepairShopr aren't default (or the RepairShopr I developed it on aren't default and yours are), this would be super difficult to fix, you can email me if this happens and I can help you (zamo2022@gmail.com).
+It may still not work, this is probably because the ticket types for your RepairShopr aren't default or the RepairShopr I developed it on aren't default and yours are, either way, this would be super difficult to fix. You can email me if this happens and I can help you (zamo2022@gmail.com).
