@@ -3,11 +3,11 @@ CacellSystem is a website made with Unity to help manage a computer and/or cellp
 
 Both website's tickets and customers are synced to the other and are viewable and edit-able by the other.
 
-I am CacellSystem's soul developer and it took me about a year of development to develop it to this state (basicly no bugs and it's not missing any important features). I work at a computer/cellphone repair store and CacellSystem is currently at least somewhat being used at that store. I created it becuase I have a lot of issues with RepairShopr, and wanted a better system.
+I am CacellSystem's soul developer. It took me about a year to develop it to this state (basicly no bugs and it's not missing any important features). I work at a computer/cellphone repair store and CacellSystem is currently at least somewhat being used at that store. I created it becuase I have a lot of issues with RepairShopr, and wanted a better system.
 
 Cacell stands for C - Computer, A - and, Cell - Cellphone.
 
-## Watch a showcase of CacellSystem
+## [Watch a showcase of CacellSystem](https://youtu.be/YLMXsPy-mk0)
 ![5](https://github.com/zane222/CacellSystem/assets/51272566/15129915-8fdb-4476-8f83-a7a3404efbce)
 https://youtu.be/YLMXsPy-mk0
 
@@ -26,7 +26,7 @@ https://youtu.be/YLMXsPy-mk0
 
 ### Cons
 Basicly all these things are not used more than once a month at the store I work at, when we need one of these features, we just use RepairShopr's website
-* Can't You can merge customers
+* Can't merge customers
 * Can't add attachments to tickets and view attachments added to tickets
 * Can't make, view, or print invoices or estimates
 * Can't send SMS
