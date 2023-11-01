@@ -1,9 +1,11 @@
 # CacellSystem
-CacellSystem is a website made with Unity to help manage a computer and/or cellphone repair store. CacellSystem is an extension of RepairShopr and requires RepairShopr's REST API for use as a database. CacellSystem can read, edit, etc. all tickets and customers that were previouly made by using RepairShopr's website and both website's tickets and customers are synced to the other and are viewable and edit-able by the other. CacellSystem is meant to be a replacement for using RepairShopr's website, while still being able to use RepairShopr's website for things you may use every once in a while if it has a feature you sometimes use.
+CacellSystem is a website made with Unity to help manage a computer and/or cellphone repair store. CacellSystem requires RepairShopr's REST API for use as a database. CacellSystem can read, edit, etc. all tickets and customers that were previously made using RepairShopr's website. CacellSystem is meant to be used if you already have RepairShopr, and want to use a simplified, more organized, faster version of it, while still being able to use RepairShopr's website for things you may use every once in a while that CacellSystem may not have
 
-I am CacellSystem's soul developer and it took me about a year of development to develop it to this state (basicly no bugs and it's not missing any important features).
+Both website's tickets and customers are synced to the other and are viewable and edit-able by the other.
 
-I work at a computer and cellphone repair store and CacellSystem is currently being used at that store. I created it becuase I have a lot of issues with RepairShopr, and wanted a better system.
+I am CacellSystem's soul developer and it took me about a year of development to develop it to this state (basicly no bugs and it's not missing any important features). I work at a computer/cellphone repair store and CacellSystem is currently at least somewhat being used at that store. I created it becuase I have a lot of issues with RepairShopr, and wanted a better system.
+
+Cacell stands for C - Computer, A - and, Cell - Cellphone.
 
 ## Watch a showcase of CacellSystem
 ![5](https://github.com/zane222/CacellSystem/assets/51272566/15129915-8fdb-4476-8f83-a7a3404efbce)
