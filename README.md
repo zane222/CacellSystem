@@ -1,9 +1,9 @@
 # CacellSystem
-CacellSystem is a website made with Unity to help manage a computer and/or cellphone repair store. CacellSystem requires RepairShopr's REST API for use as a database. CacellSystem can read, edit, etc. all tickets and customers that were previously made using RepairShopr's website. CacellSystem is meant to be used if you already have RepairShopr, and want to use a simplified, more organized, faster version of it, while still being able to use RepairShopr's website for things you may use every once in a while that CacellSystem may not have
 
+### A website to manage a local computer repair store
+
+CacellSystem is a website made with Unity to help manage a computer and/or cellphone repair store. CacellSystem can read, edit, etc. all tickets and customers that were previously made using RepairShopr's website, and it can replace the need to use RepairShopr for 99% of tasks. CacellSystem is meant to be used if you already have RepairShopr, and want to use a simplified, more organized, faster interface, while still being able to use RepairShopr's website for features you may use every once in a while that CacellSystem may not have.
 Both website's tickets and customers are synced to the other and are viewable and edit-able by the other.
-
-I am CacellSystem's soul developer. It took me about a year to develop it to this state (basicly no bugs and it's not missing any important features). I work at a computer/cellphone repair store and CacellSystem is currently at least somewhat being used at that store. I created it becuase I have a lot of issues with RepairShopr, and wanted a better system.
 
 Cacell stands for C - Computer, A - and, Cell - Cellphone.
 
@@ -25,7 +25,7 @@ https://youtu.be/YLMXsPy-mk0
 * Shows more things on the ticket label such as the creation date
 
 ### Cons
-Basicly all these things are not used more than once a month at the store I work at, when we need one of these features, we just use RepairShopr's website
+Basicly all these features are not used more than once a month at the store I work at, when we need one of these features, we just use RepairShopr's website
 * Can't merge customers
 * Can't add attachments to tickets and view attachments added to tickets
 * Can't make, view, or print invoices or estimates
